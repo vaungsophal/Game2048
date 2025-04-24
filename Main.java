@@ -22,7 +22,7 @@
          {
              // Intro to game
              System.out.println("|| --------------------------------------- ||");
-             System.out.println("||  Welcome to 2048 ||  By Tyler Carberry  ||");
+             System.out.println("||  Welcome to 2048 ||  Group 9            ||");
              System.out.println("|| --------------------------------------- ||");
              System.out.println("||               How To Play               ||");
              System.out.println("||  Combine similar numbers to reach 2048  ||");
